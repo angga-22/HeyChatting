@@ -48,8 +48,8 @@ HeyChatting is a high-performance, real-time chat application built with **Node.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd node-chat-app
+git clone 
+cd HeyChatting
 
 # Install dependencies
 npm install
