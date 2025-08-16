@@ -1,4 +1,4 @@
-# 🚀 HeyChatting: Real-Time Chat Application
+#  HeyChatting: Real-Time Chat Application
 
 HeyChatting is a high-performance, real-time chat application built with **Node.js**, **TypeScript**, **RxJS**, **WebSockets (Socket.IO)**, and **Node.js Streams**. This project showcases a modern, scalable architecture for building real-time communication applications.
 
@@ -168,7 +168,7 @@ socket.on("userJoined", (user) => {
 - `roomUsers(users)` - Current room users
 - `error(error)` - Error notification
 
-## 🧪 Testing
+## Testing
 
 The project includes comprehensive unit tests covering:
 
@@ -214,7 +214,7 @@ public/
 └── index.html                # Web client demo
 ```
 
-## 🎮 Demo
+## Demo
 
 Run the example to see HeyChatting in action:
 
@@ -227,14 +227,14 @@ Then open your browser to `http://localhost:3002` to try the web client.
 ### Example Output
 
 ```
-🚀 Starting HeyChatting Basic Example
-🚀 HeyChatting server running on port 3002
-📡 Socket.IO server ready for connections
-🌐 HTTP API available at http://localhost:3002
+ Starting HeyChatting Basic Example
+ HeyChatting server running on port 3002
+ Socket.IO server ready for connections
+ HTTP API available at http://localhost:3002
 ✅ Server started successfully!
 
-📁 Creating example rooms...
-✅ Created example rooms
+ Creating example rooms...
+ Created example rooms
 
 🏠 Available rooms (3):
   - General Chat (ID: general)
