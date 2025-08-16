@@ -2,6 +2,9 @@
 
 HeyChatting is a high-performance, real-time chat application built with **Node.js**, **TypeScript**, **RxJS**, **WebSockets (Socket.IO)**, and **Node.js Streams**. This project showcases a modern, scalable architecture for building real-time communication applications.
 
+## Example
+<img width="1135" height="887" alt="Screenshot 2025-08-16 at 15 58 54" src="https://github.com/user-attachments/assets/7b26da7b-7b58-4b60-870c-1f03d3a52885" />
+
 ## ✨ Features
 
 - **Real-Time Communication**: Instant messaging between multiple clients using Socket.IO
