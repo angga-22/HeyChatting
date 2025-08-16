@@ -49,7 +49,7 @@ HeyChatting is a high-performance, real-time chat application built with **Node.
 ```bash
 # Clone the repository
 git clone 
-cd HeyChatting
+cd hey-chatting
 
 # Install dependencies
 npm install
